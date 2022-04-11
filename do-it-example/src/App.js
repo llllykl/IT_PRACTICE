@@ -2,6 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 import { Component } from 'react';
 
+
+
+// import PropsComponentApp from './03/PropsComponentApp';
+
 // function App() {
 //   return (
 //     <div className="App">
@@ -29,6 +33,7 @@ class App extends Component {
       <div className="App">
         <h1 className='title'>ㅎㅇㅌ</h1>
         </div>
+      // <PropsComponentApp name="컴소 화이팅" />
     );
   }
 }
